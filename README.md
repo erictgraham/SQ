@@ -1,2 +1,1 @@
-# SQ
-Switch Config
+# EQ
